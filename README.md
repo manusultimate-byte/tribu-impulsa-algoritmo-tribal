@@ -62,7 +62,7 @@ emprendedor = Emprendedor(
     fase_negocio="Crecimiento",
     necesidades=["Financiamiento", "Marketing"],
     ofertas=["Desarrollo Web", "Consultoría"],
-    descripcion="Desarrollamos soluciones SaaS"
+    descripcion="DesarrUSamos soluciones SaaS")
 )
 
 # Guardar en Qdrant
